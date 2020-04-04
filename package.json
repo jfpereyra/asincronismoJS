@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo_js",
+  "version": "1.0.0",
+  "description": "curso asincronismo en js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jfpereyra/asincronismoJS.git"
+  },
+  "author": "Juan Pereyra Furlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfpereyra/asincronismoJS/issues"
+  },
+  "homepage": "https://github.com/jfpereyra/asincronismoJS#readme"
+}
